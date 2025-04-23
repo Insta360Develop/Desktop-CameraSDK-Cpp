@@ -38,32 +38,19 @@ CameraSDK is primarily used for connecting to cameras, configuring and retrievin
 # **Brief Feature Description**
 
 * [Environment Setup](#Environment-Setup)
-
-* Camera Discovery
-
-* Camera Connection and Disconnection
-
-* Photo Capture
-
-* Video Recording
-
-* File Download
-
-* File Information Retrieval
-
-* File Deletion
-
-* Recorded File Name Retrieval
-
-* Firmware Upgrade
-
-* Status Query
-
-* Preview Stream Functionality
-
-* Log
-
-* Others
+* [Camera Discovery](#Camera-Discovery)
+* [Camera Connection and Disconnection](#Camera-Connection-and-Disconnection)
+* [Photo Capture](#Photo-Capture)
+* [Video Recording](#Video-Recording)
+* [File Download](#File-Download)
+* [File Information Retrieval](#File-Information-Retrieval)
+* [File Deletion](#File-Deletion)
+* [Recorded File Name Retrieval](#Recorded-File-Name-Retrieval)
+* [Firmware Upgrade](#Firmware-Upgrade)
+* [Status Query](#Status-Query)
+* [Preview Stream Functionality](#Preview-Stream-Functionality)
+* [Log](#Log)
+* [Others](#Others)
 
 
 
