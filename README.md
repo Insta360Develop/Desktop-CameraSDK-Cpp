@@ -18,13 +18,14 @@ CameraSDK-Cpp is a C++ library to control Insta360 cameras.
 | ONE RS 1-Inch 360 Edition (Discontinued)| https://www.insta360.com/product/insta360-oners/1inch-360 |
 | X3 | https://www.insta360.com/product/insta360-x3 |
 | X4 | https://www.insta360.com/product/insta360-x4 |
+| X5 | https://www.insta360.com/cn/product/insta360-x5 |
 
 ### Supported platforms
 
 | Platform | Version |
 | :--- | :--- |
 | Windows | Windows 7 or later, only x64 supported |
-| Linux | Ubuntu 18.04, 20.04, 22.04 (x86_64), other distributions need to be tested |
+| Linux | Ubuntu 22.04 (x86_64), other distributions need to be tested |
 
 
 ## Table of contents
