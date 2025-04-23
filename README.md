@@ -67,7 +67,7 @@ CameraSDK is primarily used for connecting to cameras, configuring and retrievin
 
 # **Feature Usage Instructions**
 
-## 1. **Environment Setup**
+## **Environment Setup**
 
 ### **Switching the Camera to Android Mode**
 
