@@ -350,7 +350,7 @@ camera->StartHDRCapture(photo_size);
 
 
 
-## **Recording**
+## **Video Recording**
 
 ### **Basic Parameter Settings**
 
