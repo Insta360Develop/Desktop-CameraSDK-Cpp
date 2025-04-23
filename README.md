@@ -26,7 +26,7 @@ CameraSDK is primarily used for connecting to cameras, configuring and retrievin
 | ONE RS 1-Inch 360 Edition (Discontinued) | https://www.insta360.com/product/insta360-oners/1inch-360 |
 | X3                                       | https://www.insta360.com/product/insta360-x3              |
 | X4                                       | https://www.insta360.com/product/insta360-x4              |
-| X5                                       | https://www.insta360.com/cn/product/insta360-x5           |
+| X5                                       | https://www.insta360.com/product/insta360-x5           |
 
 - **Supported platforms**
 
@@ -37,7 +37,7 @@ CameraSDK is primarily used for connecting to cameras, configuring and retrievin
 
 # **Brief Feature Description**
 
-* Environment Setup
+* [Environment Setup](#Environment-Setup)
 
 * Camera Discovery
 
