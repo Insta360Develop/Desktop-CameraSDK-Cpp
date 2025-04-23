@@ -46,7 +46,7 @@ CameraSDK is primarily used for connecting to cameras, configuring and retrievin
 * [File Information Retrieval](#File-Information-Retrieval)
 * [File Deletion](#File-Deletion)
 * [Recorded File Name Retrieval](#Recorded-File-Name-Retrieval)
-* [Firmware Upgrade](#Firmware-Upgrade)
+* [Firmware Upgrade](#Firmware-Upgrade-(Only-Supported-for-X4-and-Later-Cameras))
 * [Status Query](#Status-Query)
 * [Preview Stream Functionality](#Preview-Stream-Functionality)
 * [Log](#Log)
