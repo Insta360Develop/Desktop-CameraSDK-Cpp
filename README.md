@@ -1,4 +1,4 @@
-# How to get?
+ # How to get?
 
 Please visit https://www.insta360.com/sdk/apply to apply for the latest SDK.
 
@@ -413,8 +413,7 @@ if (!cam->SetVideoCaptureParams(record_params, function_mode)) {
 
 #### **Exposure Parameters**
 
-Refer to * [曝光参数](#曝光参数)
-
+Refer to * [Exposure Parameters](#exposure-parameters)
 
 #### **White Balance Parameters**
 
