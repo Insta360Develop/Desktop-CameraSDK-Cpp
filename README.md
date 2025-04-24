@@ -35,7 +35,7 @@ CameraSDK is primarily used for connecting to cameras, configuring and retrievin
 | Windows  | Windows 7 or later, only x64 supported                       |
 | Linux    | Ubuntu 22.04 (x86_64), other distributions need to be tested |
 
-# **Brief Feature Description**
+# **Table of contents**
 
 * [Environment Setup](#Environment-Setup)
 * [Camera Discovery](#Camera-Discovery)
