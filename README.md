@@ -413,7 +413,8 @@ if (!cam->SetVideoCaptureParams(record_params, function_mode)) {
 
 #### **Exposure Parameters**
 
-Refer to **4.1.3**
+Refer to * [曝光参数](#曝光参数)
+
 
 #### **White Balance Parameters**
 
