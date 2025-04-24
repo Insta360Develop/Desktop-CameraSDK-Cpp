@@ -144,7 +144,7 @@ auto camera = std::make_shared<ins_camera::Camera>(camera_info);
 
 ### **Opening the Camera**
 
-Next, you can open the camera using the **Open&#x20;**&#x69;nterface:
+Next, you can open the camera using the **Open**interface:
 
 ```c++
 bool success = camera->Open()；
@@ -413,11 +413,11 @@ if (!cam->SetVideoCaptureParams(record_params, function_mode)) {
 
 #### **Exposure Parameters**
 
-Refer to * [Exposure Parameters](#exposure-parameters)
+Refer to [Exposure Parameters](#exposure-parameters)
 
 #### **White Balance Parameters**
 
-Refer to **4.1.4**
+Refer to [White Balance Parameters](#white-balance-parameters)
 
 ### **Normal Recording**
 
@@ -579,7 +579,7 @@ Use the **GetRecordingFiles** interface to obtain the names of files currently b
 
 Using the **DownloadCameraFile** interface allows downloading existing media from the camera or SD card to the local device.
 
-A callback can be set to obtain the current file download process. This interface is called synchronously; it returns only after the download is complete or has failed.&#x20;
+A callback can be set to obtain the current file download process. This interface is called synchronously; it returns only after the download is complete or has failed.
 
 > **Note:**
 >
