@@ -384,11 +384,12 @@ if (!cam->SetVideoCaptureParams(record_params,function_mode )) {
 
 #### 曝光参数
 
-参考 4.1.3
+参考 [曝光参数](#曝光参数)
+
 
 #### 白平衡参数
 
-参数4.1.4
+参数 [白平衡参数](#白平衡参数)
 
 ### 普通录制
 
