@@ -65,7 +65,9 @@ CameraSDK主要用于连接、设置和获取相机参数、控制相机进行�
 
 ### 驱动安装
 
-#### **Linux**, 请确保你的发行版已安装libusb。你可以通过yum或apt-get进行安装。
+#### **Linux**：
+
+请确保你的发行版已安装libusb。你可以通过yum或apt-get进行安装。
 
 ```Bash
 sudo apt-get install libusb-dev
@@ -91,7 +93,9 @@ sudo make install
 sudo ./CameraSDKDemo //for ubuntu
 ```
 
-#### **Windows**，请确保已安装libusbK驱动程序。你可以直接安装[libusbK](https://sourceforge.net/projects/libusbk/files/libusbK-release/3.0.7.0/)，也可以使用[zadig](https://zadig.akeo.ie/)来协助安装libusbK驱动程序。  
+#### **Windows**：
+
+请确保已安装libusbK驱动程序。你可以直接安装[libusbK](https://sourceforge.net/projects/libusbk/files/libusbK-release/3.0.7.0/)，也可以使用[zadig](https://zadig.akeo.ie/)来协助安装libusbK驱动程序。  
 
 ## 相机发现
 
