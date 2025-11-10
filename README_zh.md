@@ -59,13 +59,13 @@ CameraSDK主要用于连接、设置和获取相机参数、控制相机进行�
 
 在摄像头界面，向下滑动屏幕进入主菜单，进入“设置”->“常规”，将USB模式设置为“Android”，将U盘模式设置为“Android”模式。  
 
-#### For X4、X5
+#### For X4、X5、X4 Air
 
 先连接usb线，然后弹出模式选择的界面，选择“**Android**”模式，等待切换成功。
 
 ### 驱动安装
 
-**On Linux**, 请确保你的发行版已安装libusb。你可以通过yum或apt-get进行安装。
+#### **Linux**, 请确保你的发行版已安装libusb。你可以通过yum或apt-get进行安装。
 
 ```Bash
 sudo apt-get install libusb-dev
@@ -85,13 +85,13 @@ sudo make install
 
   安装驱动程序后，通过“lsusb”命令检查是否检测到摄像头。如果找到供应商ID为0x2e1a的任何USB设备，恭喜，您的驱动程序已成功安装。 
 
-  **注意：在Linux系统上，演示程序必须使用“sudo”运行，例如**
+**注意：在Linux系统上，演示程序必须使用“sudo”运行，例如**
 
 ```Bash
 sudo ./CameraSDKDemo //for ubuntu
 ```
 
-  **在Windows系统上，请确保已安装libusbK驱动程序。你可以直接安装[libusbK](https://sourceforge.net/projects/libusbk/files/libusbK-release/3.0.7.0/)，也可以使用[zadig](https://zadig.akeo.ie/)来协助安装libusbK驱动程序。**       
+#### **Windows**，请确保已安装libusbK驱动程序。你可以直接安装[libusbK](https://sourceforge.net/projects/libusbk/files/libusbK-release/3.0.7.0/)，也可以使用[zadig](https://zadig.akeo.ie/)来协助安装libusbK驱动程序。  
 
 ## 相机发现
 
