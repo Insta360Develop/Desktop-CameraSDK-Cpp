@@ -1,10 +1,10 @@
 # 简要
 
-CameraSDK主要用于连接、设置和获取相机参数、控制相机进行拍照和录制、文件下载和固件升级(仅支持X4)等。仅支持通过usb进行连接相机。用于toB用户，主要支持的相机有ONE X，ONE X2、R/RS、X3、X4以及X5全景相机。主要支持的平台有windows、ubuntu22.04。
+CameraSDK主要用于连接、设置和获取相机参数、控制相机进行拍照和录制、文件下载和固件升级(仅支持X4后续机型)等。仅支持通过usb进行连接相机。用于toB用户，主要支持的相机有ONE X，ONE X2、R/RS、X3、X4以及X5全景相机。主要支持的平台有windows、ubuntu22.04。
 
 - 支持机型
 
-| 型号                             | 连接                                                      |
+| 型号                             | 连接                                                       |
 | :------------------------------- | :-------------------------------------------------------- |
 | ONE X (停产)                     | http://insta360.com/product/insta360-onex/                |
 | ONE R Twin Edition (停产)        | http://insta360.com/product/insta360-oner_twin-edition    |
@@ -12,6 +12,7 @@ CameraSDK主要用于连接、设置和获取相机参数、控制相机进行�
 | ONE RS 1-Inch 360 Edition (停产) | https://www.insta360.com/product/insta360-oners/1inch-360 |
 | X3                               | https://www.insta360.com/product/insta360-x3              |
 | X4                               | https://www.insta360.com/product/insta360-x4              |
+| X4 Air                           | https://www.insta360.com/product/insta360-x4air        |
 | X5                               | https://www.insta360.com/cn/product/insta360-x5           |
 
 - **支持平台**
