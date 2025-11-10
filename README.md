@@ -79,7 +79,7 @@ Connect the camera via USB. Once connected, a pop-up page will appear; on that p
 
 ### Driver Installation
 
-#### **Linux**
+#### **Linux**：
 
 Ensure that the distribution has libusb installed. Installation can be performed using yum or apt-get.
 
@@ -107,7 +107,7 @@ Once the driver installation is complete, you can use the lsusb command to check
 sudo ./CameraSDKDemo   // for Ubuntu
 ```
 
-#### **Windows**
+#### **Windows**：
 
 Please install the [**libusbK**](https://sourceforge.net/projects/libusbk/files/libusbK-release/3.0.7.0/) driver. You can install libusbK directly or use [**Zadig**](https://zadig.akeo.ie/) to install the libusbK driver.
 
