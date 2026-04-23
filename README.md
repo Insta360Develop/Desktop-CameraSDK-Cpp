@@ -16,7 +16,7 @@ Issue Report: https://insta.jinshuju.com/f/hZ4aMW
 
 CameraSDK is primarily used for connecting to cameras, configuring and retrieving camera parameters, controlling camera operations for capturing photos and recording videos, downloading files, and upgrading firmware (only supported for cameras from model X4 and later). 
 
-It supports camera connections exclusively via USB. Designed for enterprise users, it mainly supports panoramic cameras such as the ONE X, ONE X2, R/RS, X3, X4, X4 Air, X5. The primary supported platforms are Windows and Ubuntu 22.04.
+It supports camera connections exclusively via USB. Designed for enterprise users, it mainly supports panoramic cameras such as the ONE X, ONE X2, R/RS, X3, X4, X4 Air, X5. 
 
 - **Supported cameras**
 
@@ -33,10 +33,11 @@ It supports camera connections exclusively via USB. Designed for enterprise user
 
 - **Supported platforms**
 
-| Platform | Version                                                      |
+| Platform Architecture | Version                                                      |
 | :------- | :----------------------------------------------------------- |
-| Windows  | Windows 7 or later, only x64 supported                       |
-| Linux    | Ubuntu 22.04 (x86_64), other distributions need to be tested |
+| Windows x86_64  | Windows 7 or later                       |
+| Linux x86_64    | Ubuntu 22.04 |
+| Linux AArch64 (ARM64)    | Built with ARM GNU, Linaro, and NVIDIA Jetson official toolchains|
 
 # **Table of contents**
 
